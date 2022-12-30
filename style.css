@@ -28,7 +28,7 @@ body > div {
 }
 
 .center > div {
-  border: 2px red solid;
+  /* border: 2px red solid; */
   background: whitesmoke;
   margin: 8px;
   border-radius: 20px;
@@ -39,7 +39,7 @@ body > div {
 }
 
 .center > div > img {
-  border: 2px red solid;
+  /* border: 2px red solid; */
 
   width: 80%;
   height: 80%;
